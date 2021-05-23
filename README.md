@@ -1,2 +1,2 @@
 # Password Generator Starter Code
-![PAss]Pass Generator GIF.gif
+![Pass](Pass Generator GIF.gif)
